@@ -1,0 +1,6 @@
+framework module Pods_learn_korean_phrasebook {
+  umbrella header "Pods-learn_korean_phrasebook-umbrella.h"
+
+  export *
+  module * { export * }
+}
